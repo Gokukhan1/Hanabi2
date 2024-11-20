@@ -34,7 +34,7 @@ def get_user_list(__init__, key):
 
 
 # enable logging
-FORMAT = "[Hinata] %(message)s"
+FORMAT = "[Hanabi] %(message)s"
 logging.basicConfig(
     handlers=[logging.FileHandler("log.txt"), logging.StreamHandler()],
     level=logging.INFO,
@@ -49,7 +49,7 @@ logging.getLogger("ptbcontrib.postgres_persistence.postgrespersistence").setLeve
 )
 
 LOGGER = logging.getLogger("[Hinata]")
-LOGGER.info("Hinata ɪs sᴛᴀʀᴛɪɴɢ. | ᴀɴ ᴀʙɪsʜɴᴏɪᴍғ ᴘʀᴏᴊᴇᴄᴛ ᴘᴀʀᴛs. | ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ɢᴘʟᴠ3.")
+LOGGER.info("Hanabi ɪs sᴛᴀʀᴛɪɴɢ. | ᴀɴ ᴀʙɪsʜɴᴏɪᴍғ ᴘʀᴏᴊᴇᴄᴛ ᴘᴀʀᴛs. | ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ɢᴘʟᴠ2.")
 
 try:
     if environ.get("ENV"):
@@ -110,14 +110,14 @@ WORKERS = 8
 ALLOW_EXCL = True
 TEMP_DOWNLOAD_DIRECTORY = "./Downloads"
 REM_BG_API_KEY = "LSdLgCceYz8vNqFgJVzrkDgR"
-SPAMWATCH_SUPPORT_CHAT = "@botsupportx"
+SPAMWATCH_SUPPORT_CHAT = "@mlohvdryj"
 SPAMWATCH_API = Config.SPAMWATCH_API
 ALLOW_CHATS = True
 ARQ_API_URL = "http://arq.hamker.in"
 ARQ_API_KEY = Config.ARQ_API_KEY
 CUSTOM_CMD = "!"
 GENIUS_API_TOKEN = "gIgMyTXuwJoY9VCPNwKdb_RUOA_9mCMmRlbrrdODmNvcpslww_2RIbbWOB8YdBW9"
-MOD_USERS = "5938660179"
+MOD_USERS = "7078181502"
 BACKUP_PASS = 1
 WHITELIST_CHATS = []
 BL_CHATS = []
