@@ -15,10 +15,10 @@
 ғɪʀsᴛ ᴏғ ᴀʟʟ ɪɴғᴏʀᴍ ᴛʜᴇ ᴏʀɪɢɪɴᴀʟ ᴄʀᴇᴀᴛᴏʀ ᴏғ ᴛʜᴇ ᴘᴀᴄᴋᴀɢᴇ ғʀᴏᴍ PyPi
 ᴀɴᴅ ᴛʜᴇɴ ᴍᴀᴋᴇ ᴀ ɪssᴜᴇ ɪɴ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ.
 
-## ᴄʀᴇᴅɪᴛ ꜰᴏʀ Hinata ʀᴏʙᴏᴛ
-- [ɢɪᴛʜᴜʙ](https://github.com/Abishnoi69)
-- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/Abishnoi1M)
-- [ᴄʜᴀᴛ ɢʀᴏᴜᴘ](https://t.me/AbishnoiMF)
+## ᴄʀᴇᴅɪᴛ ꜰᴏʀ Hanabi ʀᴏʙᴏᴛ
+- [ɢɪᴛʜᴜʙ](https://github.com/Gokukhan1)
+- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/xeno_kakarot)
+- [ᴄʜᴀᴛ ɢʀᴏᴜᴘ](https://t.me/lolpagalokigc)
 
 ## ɪɴғᴏ 
 *ᴛʜɪs ɪs Hinata ʀᴏʙᴏᴛ ,ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
@@ -28,9 +28,9 @@
 [ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://github.com/python-telegram-bot/python-telegram-bot), 
 ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ-ʟɪɴᴋ](https://github.com/Abishnoi69/ExonRobot)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ-ʟɪɴᴋ](https://github.com/Gokukhan/Hanabi2)
 
 
-Hinata ʀᴏʙᴏᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/Abishnoi69/ExonRobot/blob/master/LICENSE).
+Hinata ʀᴏʙᴏᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/Gokukhan1/Hanabi2/blob/master/LICENSE).
 
-© 2022 - 2023 [@ᴀʙɪsʜɴᴏɪᴍғ](https://t.me/AbishnoiMF), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ
+© 2022 - 2023 [@xeno_kakarot](https://t.me/xeno_kakarot), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ
