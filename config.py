@@ -13,16 +13,16 @@ class Config(object):
     ARQ_API_KEY = "PMPTTD-HOMLMF-SRBHNH-RZMWXL-ARQ"
     SPAMWATCH_API = None
     TOKEN = getenv("TOKEN", None)
-    OWNER_ID = int(getenv("OWNER_ID", 5938660179))
-    OWNER_USERNAME = getenv("OWNER_USERNAME", "SIAmKira")
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "iBhshdbd")
-    UPDATE_CHAT = getenv("UPDATE_CHAT", "HoshinoXUpdates")
-    LOGGER_ID = int(getenv("LOGGER_ID", "-1001819078701"))
+    OWNER_ID = int(getenv("OWNER_ID", 7078181502))
+    OWNER_USERNAME = getenv("OWNER_USERNAME", "xeno_kakarot")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "lolpagalokigc")
+    UPDATE_CHAT = getenv("UPDATE_CHAT", "mlohvdryj")
+    LOGGER_ID = int(getenv("LOGGER_ID", "-1002025076123"))
     MONGO_URI = getenv(
         "MONGO_DB_URI",
-        "mongodb+srv://public:abishnoimf@cluster0.rqk6ihd.mongodb.net/?retryWrites=true&w=majority",
+        "mongodb+srv://I-LOVE-PDF-BOT:I-LOVE-PDF-BOT@cluster0.c51o3a9.mongodb.net/?retryWrites=true&w=majority",
     )
-    DB_NAME = getenv("DB_NAME", "HoshinoBotV3")
+    DB_NAME = getenv("DB_NAME", "Hanabi2")
     REDIS_URL = "redis://default:wK6ZCiclq4iQKYpgfY90v6kd6WdPfEwl@redis-10186.c263.us-east-1-2.ec2.cloud.redislabs.com:10186/default"
     DATABASE_URL = getenv("DATABASE_URL", None)
 
