@@ -1,9 +1,9 @@
 
 {
-    "name": "Hinata ʙᴏᴛ V3",
+    "name": "Hanabi2",
     "description": "Telegram Group Management Bot Written In Python Using python-telegram-bot.",
-    "repository": "https://github.com/Abishnoi69/ExonRobot",
-    "logo": "https://te.legra.ph/file/b0e09aabe796209f01d3d.jpg",
+    "repository": "https://github.com/Gokukhan1/Hanabi2",
+    "logo": "https://files.catbox.moe/owmljd.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,27 +34,27 @@
       "API_ID": {
          "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "22731333"
       },
       "API_HASH": {
          "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "f8f993acb1d5f51c950ba873404d9af5"
       },
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "5938660179"
+         "value": "7078181502"
       },
       "DEV_USERS": {
          "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "5938660179"
+         "value": "5884969921"
       },
       "OWNER_USERNAME": {
          "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
          "required": true,
-         "value": "Abishnoi1M"
+         "value": "xeno_kakarot"
       },
       "LOGGER_ID": {
          "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
@@ -64,7 +64,7 @@
       "MONGO_DB_URI": {
          "description": "ʀᴇǫᴜɪʀᴇᴅ ғᴏʀ ᴅᴀᴛᴀʙᴀsᴇ ᴄᴏɴɴᴇᴄᴛɪᴏɴs (ᴍᴏɴɢᴏ).",
          "required": true,
-         "value": "mongodb+srv://public:abishnoimf@cluster0.rqk6ihd.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://I-LOVE-PDF-BOT:I-LOVE-PDF-BOT@cluster0.c51o3a9.mongodb.net/?retryWrites=true&w=majority"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
