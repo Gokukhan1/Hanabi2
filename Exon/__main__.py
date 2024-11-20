@@ -69,19 +69,19 @@ PM_START_TEX = """
 """
 
 PHOTO = [
-    "https://telegra.ph/file/f3f2fbc1f4fe27be928b0.jpg",
-    "https://telegra.ph/file/fb2d9535da92eb4e1cce1.jpg",
-    "https://telegra.ph/file/0549ae4812a41b4d76e9b.jpg",
-    "https://telegra.ph/file/f6edd6a18ea0dea31ba5f.jpg",
-    "https://telegra.ph/file/04d204b96150d5d455a72.jpg",
-    "https://telegra.ph/file/f7d605c256380eef49635.jpg",
-    "https://telegra.ph/file/8725bd6e8124f6e0a77e3.jpg",
+    "https://files.catbox.moe/nzpef1.jpg",
+    "https://files.catbox.moe/sy3eyu.jpg",
+    "https://files.catbox.moe/uiabmu.jpg",
+    "https://files.catbox.moe/3wajwb.jpg",
+    "https://files.catbox.moe/ny3ty8.jpg",
+    "https://files.catbox.moe/lll75o.jpg",
+    "https://files.catbox.moe/i7zoj7.jpg",
 ]
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="⚜️Add Hinata To Your Group⚜️", url=f"t.me/{BOT_USERNAME}?startgroup=new"
+            text="⚜️Add Hanabi To Your Group⚜️", url=f"t.me/{BOT_USERNAME}?startgroup=new"
         ),
     ],
     [
@@ -100,7 +100,7 @@ buttons = [
 aliveBtns = [
     [
         InlineKeyboardButton(
-            text="⚜️Add Hinata To Your Group⚜️",
+            text="⚜️Add Hanabi To Your Group⚜️",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
@@ -303,7 +303,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
 
     else:
         update.effective_message.reply_photo(
-            "https://telegra.ph/file/be6f04b512ec26376d875.jpg",
+            "https://files.catbox.moe/ny3ty8.jpg",
             caption="ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>".format(
                 uptime
             ),reply_markup=InlineKeyboardMarkup(aliveBtns),
